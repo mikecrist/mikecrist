@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is **Mike**, and I am a Senior Manager of Design Engineering / aspiring Data Scientist!  I obtained my Master of Analytics degree from Georgia Tech in December 2023.  The projects you will find on this profile are a selection of some of the projects that I worked on while at Georgia Tech.
+
 
 <!--
 **mikecrist/mikecrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
