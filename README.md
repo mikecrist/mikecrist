@@ -2,7 +2,7 @@
   <img width="330" height="112" src="https://github.com/mikecrist/mikecrist/assets/31662579/93c70632-1b25-4992-8d9c-84087cec1543">
 </p>
 
-### Hi there 👋
+### 👋 Hi there!
 My name is **Mike**, and I am an Electronic Design Engineer / aspiring Data Scientist!  I obtained my Master of Science in Analytics from Georgia Tech in December 2023.  The projects you will find on this profile are a selection of some of the projects that I worked on while at Georgia Tech.
 
 - **Location:** Atlanta, GA, USA
