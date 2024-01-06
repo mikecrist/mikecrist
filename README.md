@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there 👋
-My name is **Mike**, and I am a Senior Manager of Design Engineering / aspiring Data Scientist!  I obtained my Master of Science in Analytics from Georgia Tech in December 2023.  The projects you will find on this profile are a selection of some of the projects that I worked on while at Georgia Tech.
+My name is **Mike**, and I am a Electronics Engineer / aspiring Data Scientist!  I obtained my Master of Science in Analytics from Georgia Tech in December 2023.  The projects you will find on this profile are a selection of some of the projects that I worked on while at Georgia Tech.
 
 - **Location:** Atlanta, GA, USA
 - **Current Role:** Senior Manager Design Engineering - Digital Lighting Networks at [Acuity Brands](https://www.acuitybrands.com/)
