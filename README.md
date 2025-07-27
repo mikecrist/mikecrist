@@ -6,7 +6,7 @@
 My name is **Mike**, and I am a Data Scientist / Engineer!  I obtained my Master of Science in Analytics from Georgia Tech in December 2023.  The projects you will find on this profile are a selection of some of the projects that I worked on while at Georgia Tech.
 
 - **Location:** Atlanta, GA, USA
-- **Current Role:** Data Scientist & Algorithm Engineer at [Wahoo Fitness]([https://www.acuitybrands.com/](https://www.wahoofitness.com/?utm_id=go_cmp-11606786090_adg-116067097631_ad-491002746212_kwd-360864506157_dev-c_ext-_prd-_mca-_sig-Cj0KCQjwnJfEBhCzARIsAIMtfKLTk0ptS7KZBSe9GB03rfJGgkE2-1IEsu4GU1pvMYBZRh1201MDWcIaAiL9EALw_wcB&utm_source=google&gad_source=1&gad_campaignid=11606786090&gbraid=0AAAAACzvpWKOoAVXMoBZ1ecjSCarht1jc&gclid=Cj0KCQjwnJfEBhCzARIsAIMtfKLTk0ptS7KZBSe9GB03rfJGgkE2-1IEsu4GU1pvMYBZRh1201MDWcIaAiL9EALw_wcB))
+- **Current Role:** Data Scientist & Algorithm Engineer at [Wahoo Fitness](https://www.wahoofitness.com/?utm_id=go_cmp-11606786090_adg-116067097631_ad-491002746212_kwd-360864506157_dev-c_ext-_prd-_mca-_sig-Cj0KCQjwnJfEBhCzARIsAIMtfKLTk0ptS7KZBSe9GB03rfJGgkE2-1IEsu4GU1pvMYBZRh1201MDWcIaAiL9EALw_wcB&utm_source=google&gad_source=1&gad_campaignid=11606786090&gbraid=0AAAAACzvpWKOoAVXMoBZ1ecjSCarht1jc&gclid=Cj0KCQjwnJfEBhCzARIsAIMtfKLTk0ptS7KZBSe9GB03rfJGgkE2-1IEsu4GU1pvMYBZRh1201MDWcIaAiL9EALw_wcB)
 - **Education:** MS, Analytics - Georgia Institute of Technology.  BS, Electrical Engineering - Pennsylvania State University.
 
 
